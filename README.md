@@ -7,17 +7,7 @@ Pagos con Conekta y Oxxo en código PHP
 
 
 
-
-
-![LEY DE TRANSITO](https://user-images.githubusercontent.com/22797982/103490770-ba184600-4de3-11eb-8ee0-a378a1d41319.jpg)
-
-
-
-
-
-![resultado](https://user-images.githubusercontent.com/22797982/103491040-d1f0c980-4de5-11eb-8ace-f2f4f5c2097a.jpg)
-
-
+![conekta php](https://user-images.githubusercontent.com/22797982/103491465-b687bd80-4de9-11eb-95d1-9b0e78242255.jpg)
 
 
 
